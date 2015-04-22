@@ -2,6 +2,7 @@ unreleased
 ==========
 
   * Fix issue where `next('route')` in `app.param` would incorrectly skip values
+  * Use `array-flatten` module for flattening arrays
 
 4.12.4 / 2015-05-17
 ===================
