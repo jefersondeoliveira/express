@@ -1,3 +1,8 @@
+unreleased
+==========
+
+  * Fix issue where `next('route')` in `app.param` would incorrectly skip values
+
 4.12.4 / 2015-05-17
 ===================
 
