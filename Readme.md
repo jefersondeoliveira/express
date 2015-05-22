@@ -7,6 +7,8 @@
   [![Linux Build][travis-image]][travis-url]
   [![Windows Build][appveyor-image]][appveyor-url]
   [![Test Coverage][coveralls-image]][coveralls-url]
+  
+  [![Circle CI](https://circleci.com/gh/jefersondeoliveira/express/tree/master.svg?style=svg)](https://circleci.com/gh/jefersondeoliveira/express/tree/master)
 
 ```js
 var express = require('express')
